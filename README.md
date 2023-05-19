@@ -1,4 +1,4 @@
-## | Backend Developer 이승철
+## | Backend Developer
 
 ## | Teck Skills
 
