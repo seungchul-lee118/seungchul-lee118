@@ -1,6 +1,6 @@
-### | Backend Developer 이승철
+## | Backend Developer 이승철
 
-### | Teck Skills
+## | Teck Skills
 
 [Language]
 
@@ -20,7 +20,7 @@
 
 ***
 
-### | Blog
+## | Blog
 * https://bit.ly/3L94YIH
 
 <!--
