@@ -1,6 +1,6 @@
 ## | Backend Developer
 
-## | Teck Skills
+## | Tech Skills
 
 [Language]
 
